@@ -19,7 +19,7 @@ Open a new terminal, navigate to Calico/Client/core. Run command 'ant -v'.
 The tool should launch.
 
 
-In this repository, for Aalta you will find:
+In this repository, for Calico you will find:
 
 * :white_check_mark: [Source code](https://github.com/uci-sdcl/Calico) (available)
 
