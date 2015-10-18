@@ -4,14 +4,14 @@ Calico
 This repository contains information related to the tool Calico, presented at The ICSE 2011 conference. The original project can be found here - <a href="http://sdcl.ics.uci.edu/research/calico/">Project page</a>
 
 The website for this tool is here - 
-<a href = "http://sdcl.ics.uci.edu/research/calico/"> Calico </a>
-<a href = "http://dl.acm.org/citation.cfm?id=2574928"> ACM Paper </a>
-<a href = "https://github.com/uci-sdcl/Calico"> Download Page </a>
-<a href = "https://youtu.be/VU4jIjT1B5Y"> Video </a>
+<a href = "http://sdcl.ics.uci.edu/research/calico/"> Calico </a> <br/>
+<a href = "http://dl.acm.org/citation.cfm?id=2574928"> ACM Paper </a> <br/>
+<a href = "https://github.com/uci-sdcl/Calico"> Download Page </a> <br/>
+<a href = "https://youtu.be/VU4jIjT1B5Y"> Video </a> <br/>
 
 
-<a href = "https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Calico"> Source </a>
-<a href = "https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Calico"> Binary </a>
+<a href = "https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Calico"> Source </a> <br/>
+<a href = "https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Calico"> Binary </a> <br/>
 
 Please note that this repository <i>is not</i> the original repository for this tool. This repository is merely for hosting the tool on GitHub and I am not the original author of this tool.
 
