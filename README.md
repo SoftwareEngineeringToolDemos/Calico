@@ -1,11 +1,10 @@
-Calico
+﻿Calico
 ======
 
-This repository contains information related to the tool Calico, presented at The ICSE 2011 conference. The original project can be found here - <a href="http://sdcl.ics.uci.edu/research/calico/">Project page</a>
+This repository contains information related to the tool Calico, presented at the ICSE 2011 conference. The tool was originally presented in <a href = "http://dl.acm.org/citation.cfm?id=2574928"> this paper </a> <br/>
 
 The website for this tool is here - 
 <a href = "http://sdcl.ics.uci.edu/research/calico/"> Calico </a> <br/>
-<a href = "http://dl.acm.org/citation.cfm?id=2574928"> ACM Paper </a> <br/>
 <a href = "https://github.com/uci-sdcl/Calico"> Download Page </a> <br/>
 <a href = "https://youtu.be/VU4jIjT1B5Y"> Video </a> <br/>
 
