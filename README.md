@@ -7,8 +7,9 @@ The website for this tool is here -
 <a href = "http://sdcl.ics.uci.edu/research/calico/"> Calico </a> <br/>
 <a href = "https://github.com/uci-sdcl/Calico"> Download Page </a> <br/>
 <li>
-<ul><a href = "https://youtu.be/VU4jIjT1B5Y"> A Video of the tool </a> <br/></ul>
+<ul><a href = "https://youtu.be/VU4jIjT1B5Y"> A Video of the tool </a> </ul>
 </li>
+<br/>
 
 <a href = "https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Calico"> Source </a> <br/>
 <a href = "https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Calico"> Binary </a> <br/>
