@@ -10,8 +10,6 @@ This repository contains information related to the tool Calico, presented at th
 
 <a href = "https://github.com/uci-sdcl/Calico"> Download Page </a> <br/>
 
-<a href = "https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Calico"> Binary </a> <br/>
-
 Disclaimer: Please note that this repository <i>is not</i> the original repository for this tool. This repository is merely for hosting the tool on GitHub and I am not the original author of this tool.
 
 Project Description - 
