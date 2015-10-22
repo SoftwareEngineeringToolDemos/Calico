@@ -3,14 +3,13 @@
 
 This repository contains information related to the tool Calico, presented at the ICSE 2011 conference. The tool was originally presented in <a href = "http://dl.acm.org/citation.cfm?id=2574928"> this paper </a> <br/>
 
-<li>
-<ul><a href = "http://sdcl.ics.uci.edu/research/calico/">The Official Project page </a></ul>
-<ul><a href = "https://youtu.be/VU4jIjT1B5Y"> A Video of the tool </a></ul>
-</li>
+<ul>
+<li><a href = "http://sdcl.ics.uci.edu/research/calico/">The Official Project page </a></li>
+<li><a href = "https://youtu.be/VU4jIjT1B5Y"> A Video of the tool </a></li>
+</ul>
 
 <a href = "https://github.com/uci-sdcl/Calico"> Download Page </a> <br/>
 
-<a href = "https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Calico"> Source </a> <br/>
 <a href = "https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Calico"> Binary </a> <br/>
 
 Disclaimer: Please note that this repository <i>is not</i> the original repository for this tool. This repository is merely for hosting the tool on GitHub and I am not the original author of this tool.
