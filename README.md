@@ -5,16 +5,15 @@ This repository contains information related to the tool Calico, presented at th
 
 <li>
 <ul><a href = "http://sdcl.ics.uci.edu/research/calico/">The Official Project page </a></ul>
-<ul><a href = "https://youtu.be/VU4jIjT1B5Y"> A Video of the tool </a> </ul>
+<ul><a href = "https://youtu.be/VU4jIjT1B5Y"> A Video of the tool </a></ul>
 </li>
-<br/>
 
 <a href = "https://github.com/uci-sdcl/Calico"> Download Page </a> <br/>
 
 <a href = "https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Calico"> Source </a> <br/>
 <a href = "https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Calico"> Binary </a> <br/>
 
-Please note that this repository <i>is not</i> the original repository for this tool. This repository is merely for hosting the tool on GitHub and I am not the original author of this tool.
+Disclaimer: Please note that this repository <i>is not</i> the original repository for this tool. This repository is merely for hosting the tool on GitHub and I am not the original author of this tool.
 
 Project Description - 
 Calico is an intuitive sketch-based design environment for use on touch-based devices, with a particular focus on supporting the early stages of software design. Calico explores touch-based hardware, including electronic whiteboards, tablet PCs, slates, and iPads, to create a novel software design environment in support of software developers engaged in design sketching.
