@@ -1,0 +1,21 @@
+
+# The contents below were provided by the Packer Vagrant post-processor
+
+Vagrant.configure("2") do |config|
+  config.vm.base_mac = "080027346F30"
+  config.vm.box = "puphpet/ubuntu1404-x32"
+
+  config.vm.provider "virtualbox" do |v|
+  	v.gui = true
+  end
+
+   config.vm.provision "shell", inline: <<-SHELL
+		sudo apt-get update
+		sudo apt-get -y install openjdk-7-jdk
+	SHELL
+end
+
+
+# The contents below (if any) are custom contents provided by the
+# Packer template during image build.
+
