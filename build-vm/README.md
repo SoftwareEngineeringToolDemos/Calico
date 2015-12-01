@@ -14,3 +14,5 @@ password - vagrant
 
 <b> References </b>
 <li><a>https://docs.vagrantup.com/v2/getting-started</a></li>
+<li><a>http://askubuntu.com/questions/159008/how-to-add-startup-applications-in-lubuntu</a></li>
+<li><a>https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get</a></li>
