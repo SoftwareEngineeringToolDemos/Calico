@@ -28,10 +28,9 @@ The tool should launch.
 
 In this repository, for Calico you will find:
 
-* :white_check_mark: [Source code](https://github.com/uci-sdcl/Calico) (available)
-
-* :white_check_mark: [The original tool] (https://github.com/uci-sdcl/Calico) (available)
-* :white_check_mark: [Virtual machine containing tool] (https://drive.google.com/open?id=0B5-hiKquEJlhYUFIcHlFT1kxV2c) (available)
+* :white_check_mark: [Source code](.)
+* :x: Executable tool (not available)
+* :white_check_mark: [Virtual machine containing tool](http://go.ncsu.edu/SE-tool-VMs)
 
 
 
